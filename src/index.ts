@@ -1,5 +1,4 @@
 export {
-  RpcService,
   RpcTcpClient,
   RpcTlsClient,
   SocketRpcResponseSchema,

@@ -1,13 +1,13 @@
 {
-  "name": "oreos",
-  "version": "0.2.8",
+  "name": "oreos-rpc-only",
+  "version": "0.1.1",
   "description": "Ironfish provider",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oreoslabs/oreos.git"
+    "url": "git+https://github.com/hairtail/oreos.git"
   },
   "private": false,
-  "author": "@oreos",
+  "author": "@hairtail",
   "main": "lib/index.js",
   "files": [
     "lib/**/*"
